@@ -61,3 +61,6 @@ trajectories/*.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# 车道线检测演示的输出图片（由 tests/demo_lane_detection.py 生成）
+demo_out/

@@ -67,6 +67,8 @@ ROS每章节运行代码:
 * [RQT 插件](./ground/rqt_plugin.md)
 * [点云地图创建](./ground/pcl_recorder.md)
 * [车辆键盘遥操作与二维模拟](./ground/vehicle_pygame_teleop.md)
+* [车道线检测（前视视觉）](./ground/carla_lane_keeping/lane_detection.md)
+* [车道保持控制](./ground/carla_lane_keeping/lane_keeping_control.md)
 
 
 ## 5. 空域载具 <span id='air_vehicle'></span>
